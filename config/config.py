@@ -27,7 +27,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "˹● 𝑻𝑶𝑴 ✘ 𝑱𝑬𝑹𝑹𝒀 𝑴𝑼𝑺𝑰𝑪 ●˼™")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5555422614").split())
+    map(int, getenv("OWNER_ID", "5991943478").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -36,7 +36,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/dattuxd/BK-OP-TOM",
+    "https://github.com/dattuxd/Rahul-varma",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
